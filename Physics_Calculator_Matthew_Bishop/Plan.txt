@@ -1,0 +1,17 @@
+
+  1. Create functions to perform calculations (including input and output):
+    a. calculateVelocity
+    b. calculateAcceleration
+    c. Motion functions
+      1. calculateVelocityTime
+      2. calculatePositionTime
+      3. calculateVelocityPosition
+      4. calculateAverageVelocity 
+    d. calculateNewtons?
+    e. calculateWeight
+    f. calculateMomentum
+  2. Write decision logic for main menu in main funciton.
+    a. Output options to user.
+    b. Get validated input for menu selection.
+    c. Use switch statement to route to specified calcuation function.
+    d. Loop back.
